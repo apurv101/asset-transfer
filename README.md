@@ -1,2 +1,2 @@
-# Cranky Coin
-Cranky Coin is a simple blockchain, cryptocurrency, wallet implementation
+# Asset Transfer
+Asset Transfer is a simple implemenation of Blockchain where all transactions can be recorded.
